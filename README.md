@@ -29,4 +29,4 @@ gcc main.c -o MultiUtilityApp
 2. Run the exe: 
 
 ./MultiUtilityApp   # Linux / Mac
-MultiUtilityApp.exe # Windows
+.\MultiUtilityApp.exe # Windows
